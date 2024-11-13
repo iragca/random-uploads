@@ -1,0 +1,345 @@
+book_id,title,publication_date,genre,rating,num_of_reviews,book_cover,author_id
+1,The Silent Hour,11/24/1902,sci-fi,,,,61
+2,Echoes of the Forgotten,10/5/1956,sci-fi,,,,79
+3,The Last Key,9/8/1954,fiction,,,,96
+4,Whispers Through Time,8/17/2014,non-fiction,,,,98
+5,Shadowed Paths,5/21/1942,fiction,,,,23
+6,Beneath the Blood Moon,4/25/2010,mystery,,,,85
+7,The Light Between Worlds,5/13/1903,mystery,,,,12
+8,The Clockmaker’s Secret,1/29/2013,non-fiction,,,,26
+9,Midnight at the Edge of the World,10/15/1941,mystery,,,,18
+10,The Girl Who Spoke to Shadows,3/14/1973,fiction,,,,67
+11,In the Wake of Giants,10/27/1990,non-fiction,,,,22
+12,The Forgotten Kingdom,11/17/1947,romance,,,,72
+13,The Firekeeper’s Daughter,12/26/1915,romance,,,,74
+14,Through the Veil of Stars,2/26/1936,romance,,,,99
+15,Of Thorns and Kings,12/14/1961,mystery,,,,87
+16,Frost on the Horizon,1/16/1911,romance,,,,84
+17,The Edge of Forever,10/10/1975,romance,,,,24
+18,When the Stars Fall,11/25/1997,romance,,,,41
+19,The Serpent’s Song,2/7/1984,romance,,,,62
+20,The Vanishing Point,11/16/1980,non-fiction,,,,8
+21,The Mirror’s Reflection,6/3/1994,sci-fi,,,,54
+22,A World Beyond the Waves,6/8/2017,mystery,,,,94
+23,The Color of Distant Skies,4/28/1930,fiction,,,,69
+24,The Watcher in the Dark,5/19/1996,sci-fi,,,,69
+25,Kingdoms of Ash,6/9/2007,sci-fi,,,,83
+26,Dancing with Shadows,8/27/1928,sci-fi,,,,23
+27,"Through a Glass, Darkly",4/18/1943,mystery,,,,77
+28,Beneath the Silver Moon,10/10/1936,mystery,,,,46
+29,Tales of the Hollow Earth,3/10/2006,non-fiction,,,,56
+30,The Last Ember,10/7/1995,mystery,,,,38
+31,Whispers in the Wind,2/24/1941,romance,,,,51
+32,The Fire and the Flame,12/19/1954,mystery,,,,59
+33,The Secrets of the Sky,11/25/2016,romance,,,,9
+34,The Thorn Queen’s Curse,5/1/1997,fiction,,,,68
+35,A Tapestry of Lies,4/14/1968,fiction,,,,11
+36,The Boundless Sea,8/22/1963,mystery,,,,46
+37,Under the Midnight Sun,1/13/1957,non-fiction,,,,96
+38,The Call of the Wanderer,1/24/1952,sci-fi,,,,30
+39,The Ghost in the Garden,12/21/1917,sci-fi,,,,79
+40,The Silent City,12/27/1929,mystery,,,,19
+41,Beyond the Iron Gates,1/29/1917,sci-fi,,,,14
+42,The Wolf and the Moon,9/15/1916,romance,,,,67
+43,The Song of the Siren,8/6/1915,fiction,,,,10
+44,The Queen’s Ransom,7/23/1916,mystery,,,,14
+45,A Legacy of Stones,9/8/1950,sci-fi,,,,62
+46,The Road to the Otherworld,6/7/1921,fiction,,,,37
+47,Ravens in the Ashes,12/8/1918,fiction,,,,1
+48,The Book of Forgotten Dreams,12/17/1962,romance,,,,50
+49,The Windmill’s Song,11/20/1948,romance,,,,9
+50,Voices from the Deep,9/3/1994,sci-fi,,,,36
+51,The Edge of the World,12/26/1924,fiction,,,,32
+52,The Dragon’s Legacy,2/9/1967,romance,,,,44
+53,Among the Stars,8/29/1922,fiction,,,,1
+54,The Glass Serpent,8/7/1908,fiction,,,,98
+55,The Lantern of Lost Souls,7/27/1980,fiction,,,,93
+56,The Road to Nowhere,8/25/2003,romance,,,,30
+57,The Shadow of the Phoenix,4/29/1958,mystery,,,,16
+58,Heirs of the Storm,8/16/2012,romance,,,,90
+59,The Lantern’s Glow,3/4/2011,mystery,,,,66
+60,In the Realm of Shadows,7/14/1986,romance,,,,52
+61,The Secret Beneath the Earth,10/3/2006,mystery,,,,38
+62,Bloodlines of the Fallen,7/21/1927,romance,,,,75
+63,The Last Voyage,8/27/2007,mystery,,,,91
+64,Through the Firelight,4/22/1924,mystery,,,,71
+65,The Crimson Hour,4/28/1966,romance,,,,54
+66,Whispers of a Dying World,1/31/1959,mystery,,,,8
+67,The Red Wizard’s Curse,8/6/2017,fiction,,,,39
+68,The Keeper of Souls,8/10/1942,mystery,,,,45
+69,Frosted Souls,4/1/1997,non-fiction,,,,21
+70,The Witch’s Grimoire,6/5/1985,fiction,,,,26
+71,The Kingdom of Dust,5/19/1984,sci-fi,,,,34
+72,Through the Moonlit Path,9/10/1975,sci-fi,,,,10
+73,The Secret at the Edge of the Sea,10/7/1913,mystery,,,,92
+74,The Night Herald,1/3/1982,romance,,,,99
+75,Wings of the Fallen,10/11/1978,mystery,,,,51
+76,A Kingdom of Ice,5/31/1948,fiction,,,,98
+77,The Winds of Change,6/29/1908,non-fiction,,,,20
+78,Of Ice and Shadows,8/31/2022,sci-fi,,,,99
+79,The Final Light,6/22/1913,romance,,,,53
+80,The Dragon’s Wake,2/28/1943,non-fiction,,,,41
+81,The Heart of the Sky,8/28/1968,non-fiction,,,,81
+82,Tales of the Cursed Island,12/20/1952,non-fiction,,,,11
+83,The Sword of Destiny,12/25/1963,fiction,,,,71
+84,In the Shadow of Giants,2/26/2018,sci-fi,,,,1
+85,The Heart of Winter,12/12/2002,mystery,,,,84
+86,The Prophecy of the Sun,12/25/2009,fiction,,,,65
+87,The Temple of Lost Souls,12/31/1971,non-fiction,,,,74
+88,The Echo of Silence,11/6/1980,mystery,,,,97
+89,Shadows of the Forgotten Realm,2/12/1900,non-fiction,,,,54
+90,Fires of the Ashen World,3/23/1994,sci-fi,,,,99
+91,The Dreamkeeper’s Song,6/4/1987,non-fiction,,,,38
+92,A Kingdom in Flames,3/23/1933,romance,,,,77
+93,The Heart of the Ocean,3/21/2022,sci-fi,,,,96
+94,The Last of the Silver Warriors,12/27/1920,mystery,,,,55
+95,The Forgotten Dream,6/16/1993,romance,,,,90
+96,A Thousand Broken Pieces,5/10/1978,sci-fi,,,,80
+97,The Serpent’s Promise,8/12/1923,fiction,,,,31
+98,The Lost Children of the Sun,12/24/1935,romance,,,,79
+99,The Night Before the Dawn,11/30/1939,fiction,,,,18
+100,The Midnight Masquerade,8/4/1927,mystery,,,,51
+101,The Enchanted City,7/28/1961,non-fiction,,,,67
+102,The Guardians of the Moon,4/29/2010,mystery,,,,94
+103,The Twilight Kingdom,5/25/1956,sci-fi,,,,95
+104,Voices of the Void,6/22/1921,mystery,,,,92
+105,The Rose and the Raven,1/6/1946,sci-fi,,,,32
+106,The Secrets We Keep,6/10/1958,fiction,,,,31
+107,The Last Hope,10/8/1925,non-fiction,,,,76
+108,A Dance of Shadows,4/29/1911,fiction,,,,13
+109,Whispers in the Dark,9/24/2003,non-fiction,,,,29
+110,The Crystal’s Edge,1/29/1965,sci-fi,,,,54
+111,The Ghosts Beneath the Snow,6/16/1920,romance,,,,25
+112,When the Rivers Run Dry,10/20/1979,mystery,,,,29
+113,The Last Dream of the World,9/18/1910,sci-fi,,,,86
+114,The Book of Lost Souls,7/11/1933,non-fiction,,,,39
+115,Windswept Hearts,1/17/1915,non-fiction,,,,92
+116,The Shattered Crown,4/8/1946,fiction,,,,49
+117,Fate’s Whisper,3/24/1997,sci-fi,,,,27
+118,The Garden of the Gods,1/25/1951,romance,,,,25
+119,The Lost Palace,3/1/2013,sci-fi,,,,96
+120,The King's Shadow,3/9/1959,romance,,,,83
+121,A Song for the Fallen,11/21/1930,mystery,,,,53
+122,The Keeper of Stars,9/7/1968,romance,,,,77
+123,The Glass Palace,5/10/1984,mystery,,,,17
+124,Whispers from the Abyss,3/25/1954,non-fiction,,,,43
+125,The Night of Fallen Stars,3/25/1969,romance,,,,3
+126,The Boundless Void,9/5/1965,sci-fi,,,,92
+127,The City of Eternal Light,6/28/2001,non-fiction,,,,70
+128,The Dragon’s Curse,9/3/1902,fiction,,,,80
+129,The Fire of the Last Dragon,2/27/1940,sci-fi,,,,94
+130,A Flame in the Dark,3/7/1976,sci-fi,,,,25
+131,The Blood of Kings,5/19/1999,fiction,,,,1
+132,The Last Dawn,4/3/1971,sci-fi,,,,10
+133,The Silver Queen,6/5/1947,mystery,,,,59
+134,The Night's Edge,9/10/1976,sci-fi,,,,87
+135,The Witch's Hollow,6/20/1935,sci-fi,,,,13
+136,The Last Song of the Siren,2/24/1992,mystery,,,,80
+137,The War of the Forgotten,3/1/1998,mystery,,,,9
+138,The Whispering Wall,3/11/1922,fiction,,,,43
+139,Shadows of the Last Kingdom,11/3/1987,non-fiction,,,,88
+140,The Last Rune,9/3/2015,fiction,,,,9
+141,The Blackened Sky,6/2/1993,fiction,,,,96
+142,A Heart in the Flames,10/28/1951,mystery,,,,54
+143,The Rise of the Fallen,8/20/1916,non-fiction,,,,99
+144,The Keeper of the Last Hope,7/12/1992,sci-fi,,,,48
+145,The Clockwork Princess,7/5/2018,sci-fi,,,,21
+146,The Shining Empire,3/30/2002,romance,,,,1
+147,The Echo of Hope,10/5/1989,fiction,,,,3
+148,The Sorcerer’s Betrayal,11/12/1983,non-fiction,,,,100
+149,The Call of the Void,11/27/1969,romance,,,,29
+150,The Return of the Moon,12/11/1923,fiction,,,,17
+151,Beneath the Ashes,3/16/2006,romance,,,,52
+152,Tales of the Endless Sea,5/22/1996,sci-fi,,,,37
+153,The Silent Watcher,10/7/1906,mystery,,,,42
+154,The Golden Leaf,5/1/2016,sci-fi,,,,25
+155,In the Shadow of the Stars,3/4/1993,non-fiction,,,,89
+156,The Widow’s Curse,11/24/1937,fiction,,,,27
+157,The Haunted Horizon,5/27/1939,non-fiction,,,,11
+158,The King’s Betrayal,1/18/1949,fiction,,,,7
+159,The Ghosts of Nighthaven,2/2/2020,non-fiction,,,,33
+160,The Memory of Fire,10/20/1946,fiction,,,,40
+161,The Last Flame,12/11/1931,romance,,,,71
+162,The Prince of Shadows,11/18/1904,romance,,,,5
+163,The Secret of the Stones,2/17/1950,non-fiction,,,,31
+164,The Eye of the Storm,10/27/2003,sci-fi,,,,98
+165,A Promise in the Dark,12/17/1979,romance,,,,10
+166,The Rising Sun,10/11/2022,romance,,,,57
+167,Echoes of the Past,2/10/1952,sci-fi,,,,98
+168,The Song of the Phoenix,1/6/1971,romance,,,,13
+169,The King’s Tomb,12/15/1993,fiction,,,,51
+170,The War of the Elements,5/24/2000,non-fiction,,,,9
+171,The Frost King,4/21/1978,non-fiction,,,,35
+172,The Heart of the Phoenix,1/24/1912,romance,,,,26
+173,The Sorcerer’s Tower,6/30/1923,romance,,,,87
+174,The Crystal Garden,8/13/1944,romance,,,,41
+175,The Wandering Queen,2/19/1908,mystery,,,,60
+176,The Song of the Sea,10/12/1938,mystery,,,,85
+177,The Shadow Prince,10/12/1970,fiction,,,,7
+178,The Dark and the Dawn,4/26/1943,mystery,,,,81
+179,The Black Throne,8/22/1960,fiction,,,,85
+180,The Circle of Power,5/19/1929,romance,,,,74
+181,The Last War,5/3/1922,non-fiction,,,,44
+182,The Crown of Thorns,11/23/2019,non-fiction,,,,52
+183,The Prince’s Curse,11/13/1929,fiction,,,,85
+184,The Curse of the Silver Ring,2/15/1907,non-fiction,,,,91
+185,The Dark Whisper,5/21/1947,sci-fi,,,,18
+186,The Rising Tide,10/7/1928,non-fiction,,,,97
+187,The Flame of the Phoenix,1/27/1955,fiction,,,,19
+188,The Cursed King,7/13/1963,mystery,,,,57
+189,The Sorcerer’s Revenge,5/15/1917,romance,,,,93
+190,The Secret of the Crystal,10/28/1959,mystery,,,,47
+191,The Lost Princess,7/25/1919,sci-fi,,,,52
+192,The Sword of Shadows,8/12/2022,fiction,,,,75
+193,The Blood of the Moon,11/5/1990,mystery,,,,87
+194,The Heart of the Beast,8/7/1968,romance,,,,94
+195,The Broken Kingdom,6/22/2009,romance,,,,11
+196,The Demon’s Secret,5/28/1913,fiction,,,,12
+197,The Last Night,4/16/1942,mystery,,,,17
+198,The King’s Revenge,3/20/1988,non-fiction,,,,6
+199,The Shadow of the Raven,11/24/1971,fiction,,,,40
+200,The Curse of the Night,1/1/1929,mystery,,,,98
+201,The Lost World,11/12/1946,mystery,,,,17
+202,The Wandering King,9/24/1945,sci-fi,,,,72
+203,The Warrior’s Journey,11/9/2016,sci-fi,,,,64
+204,The Crown of Ashes,12/28/1902,non-fiction,,,,12
+205,The Eye of the Dragon,5/11/1937,sci-fi,,,,100
+206,The Wind of the Storm,9/3/1951,sci-fi,,,,3
+207,The Fallen Star,3/13/1907,non-fiction,,,,8
+208,The King’s Sword,9/15/2021,non-fiction,,,,88
+209,The Rise of the Phoenix,10/8/2011,non-fiction,,,,40
+210,The Shadow’s Curse,4/9/2000,sci-fi,,,,89
+211,The Silent Kingdom,5/17/1987,sci-fi,,,,24
+212,The Last Shadow,11/1/1932,fiction,,,,30
+213,The City of Shadows,7/30/1964,romance,,,,10
+214,The Sorcerer’s Stone,12/11/1908,romance,,,,53
+215,The Heart of the Storm,10/26/1923,fiction,,,,8
+216,The Fire of the Night,6/21/1985,non-fiction,,,,58
+217,The Dawn of the Serpent,12/13/1947,sci-fi,,,,36
+218,The Dark King’s Daughter,1/24/1915,fiction,,,,32
+219,The Moonlit Sea,1/28/1992,fiction,,,,19
+220,The Queen’s Fury,4/24/1931,sci-fi,,,,64
+221,The Kingdom of Night,3/20/1904,sci-fi,,,,41
+222,The Fallen Kingdom,9/18/1920,non-fiction,,,,4
+223,The Light of the Sorcerer,7/17/2006,romance,,,,32
+224,The Dream of the Gods,10/31/1995,sci-fi,,,,74
+225,The Sorcerer’s War,6/24/1935,fiction,,,,27
+226,The Keeper of the Flame,1/12/1978,non-fiction,,,,22
+227,The Song of the Wanderer,6/17/2000,romance,,,,13
+228,The Book of Shadows,11/28/2013,romance,,,,57
+229,The Night of the Serpent,9/15/1962,romance,,,,25
+230,The Queen’s Last Breath,3/13/2016,romance,,,,14
+231,The Shadow’s Edge,5/29/2019,romance,,,,31
+232,The Night of the Phoenix,7/12/2010,fiction,,,,79
+233,The Return of the King,3/15/1989,fiction,,,,5
+234,The Sword of the Serpent,9/9/1949,romance,,,,23
+235,The Secret of the Stars,5/29/1946,non-fiction,,,,99
+236,The Last Sorcerer,7/31/1959,romance,,,,21
+237,The Heart of the Dragon,8/26/1923,fiction,,,,17
+238,The King's Legacy,12/20/2009,fiction,,,,71
+239,The Lady of Shadows,3/11/1987,mystery,,,,34
+240,The Final Prophecy,2/7/1996,sci-fi,,,,13
+241,The Curse of the Queen,2/28/1906,non-fiction,,,,36
+242,The Flame and the Sword,7/3/1972,mystery,,,,62
+243,The Last Journey,6/6/1988,mystery,,,,73
+244,The Song of the Dark,6/28/1959,sci-fi,,,,78
+245,The King's Silence,10/26/1978,mystery,,,,73
+246,The Shadow's Secret,12/21/2021,romance,,,,58
+247,The Queen of Shadows,9/12/1945,romance,,,,70
+248,The Magic of the Sea,2/16/1967,sci-fi,,,,16
+249,The Dance of the Sorceress,9/29/1995,non-fiction,,,,61
+250,The Winds of Fate,9/5/1918,mystery,,,,24
+251,The Return of the Dragon,6/25/1917,fiction,,,,7
+252,The Sorceress’s Curse,11/20/1952,sci-fi,,,,68
+253,The Kingdom of the Dead,9/16/1963,non-fiction,,,,69
+254,The Shadow of the King,2/17/1920,fiction,,,,99
+255,The Last Light of the Sun,1/7/2014,non-fiction,,,,61
+256,The Curse of the Dragon,10/3/1960,non-fiction,,,,68
+257,The Night of the Sorceress,1/13/1947,mystery,,,,54
+258,The Heart of the King,6/18/2003,sci-fi,,,,63
+259,The Fire in the Sky,10/4/1907,non-fiction,,,,90
+260,The Dreamer’s Path,9/2/1930,mystery,,,,33
+261,The Secret of the Fire,4/20/1950,romance,,,,67
+262,The Dark Queen’s Revenge,12/28/1937,non-fiction,,,,44
+263,The Fallen Sorcerer,4/6/1928,mystery,,,,79
+264,The Heart of the Kingdom,9/18/1920,sci-fi,,,,6
+265,The King’s Secret,9/7/1906,romance,,,,55
+266,The Whispering Sorceress,12/18/1940,mystery,,,,76
+267,The Song of the Shadows,10/15/1911,fiction,,,,55
+268,The Heart of the Beast,1/16/1972,non-fiction,,,,8
+269,The Kingdom of the Storm,3/17/1934,fiction,,,,43
+270,The Last Curse,11/23/1949,sci-fi,,,,69
+271,The Curse of the Dragon’s Heart,3/24/1955,sci-fi,,,,65
+272,The Night of the Queen,11/18/1997,sci-fi,,,,67
+273,The Book of the Dragon,11/27/1975,non-fiction,,,,45
+274,The Shadow King’s Secret,8/5/1977,mystery,,,,83
+275,The Last Flame of the Phoenix,8/15/1924,fiction,,,,30
+276,The Fire’s Embrace,10/21/1910,mystery,,,,32
+277,The Sorcerer’s Heart,2/17/1954,romance,,,,50
+278,The Song of the Kings,4/16/1956,sci-fi,,,,93
+279,The Fallen Queen,2/25/1914,mystery,,,,73
+280,The Last Spell,3/13/1931,non-fiction,,,,30
+281,The Heart of the Sorcerer,5/22/1945,mystery,,,,28
+282,The Night of the Dragon,9/9/1950,sci-fi,,,,72
+283,The Shadow of the Sorceress,9/14/1922,romance,,,,2
+284,The Dark Sorcerer’s Curse,12/28/1998,non-fiction,,,,65
+285,The Return of the Sorcerer,7/30/1981,fiction,,,,9
+286,The Secret of the Queen,2/7/1900,sci-fi,,,,46
+287,The Curse of the Moon,6/16/1915,sci-fi,,,,34
+288,The Shadow of the Sorcerer,10/23/1971,fiction,,,,7
+289,The Return of the Fallen,10/16/1929,fiction,,,,20
+290,The Sword of the Kingdom,3/16/2008,fiction,,,,78
+291,The King’s Curse,5/31/1965,sci-fi,,,,61
+292,The Heart of the Flame,6/4/1945,romance,,,,70
+293,The Night of the Shadows,4/26/1909,fiction,,,,64
+294,The Queen’s Secret,8/9/1940,sci-fi,,,,56
+295,The Sorcerer’s Fate,4/16/1942,romance,,,,48
+296,The Heart of the Serpent,5/9/2022,sci-fi,,,,39
+297,The Curse of the King’s Crown,6/20/1993,sci-fi,,,,25
+298,The Song of the Queen,3/26/1923,sci-fi,,,,29
+299,The Night of the Serpent,12/25/1957,sci-fi,,,,70
+300,The Return of the Heart,3/24/1963,non-fiction,,,,47
+301,The Dark Queen’s Song,6/13/1963,fiction,,,,60
+302,The Flame of the Serpent,8/19/1920,non-fiction,,,,29
+303,The Kingdom of Shadows,10/14/1900,mystery,,,,92
+304,The Shadow of the Serpent,7/28/1977,sci-fi,,,,49
+305,The Heart of the Shadow,10/12/1966,non-fiction,,,,69
+306,The Last King’s Curse,6/5/1963,romance,,,,45
+307,The Sorceress’s Heart,4/7/1976,mystery,,,,45
+308,The Queen’s Dream,10/27/1963,mystery,,,,85
+309,The Final Curse,5/10/1983,mystery,,,,45
+310,The Night of the Heart,6/24/2017,fiction,,,,80
+311,The Secret of the King,7/22/1957,sci-fi,,,,66
+312,The Heart of the Queen,4/11/1903,sci-fi,,,,14
+313,The Shadow of the Moon,2/4/1973,fiction,,,,76
+314,The Last Sorceress,5/11/1908,mystery,,,,35
+315,The Kingdom of the Serpent,3/23/1944,sci-fi,,,,56
+316,The Dragon’s Flame,11/14/2014,non-fiction,,,,68
+317,The Return of the Shadow,5/30/1939,mystery,,,,96
+318,The Sorcerer’s Light,1/29/1998,non-fiction,,,,83
+319,The Curse of the Heart,10/9/2006,non-fiction,,,,98
+320,The Queen’s Crown,10/10/1949,mystery,,,,15
+321,The Last Dance of the Serpent,10/13/1954,sci-fi,,,,92
+322,The Song of the Fire,7/7/1908,non-fiction,,,,17
+323,The Heart of the Dragon’s Flame,11/27/1966,romance,,,,88
+324,The Last Embrace of the Queen,8/18/1909,non-fiction,,,,82
+325,The Fire’s Curse,11/25/1971,fiction,,,,76
+326,The Curse of the Serpent’s Heart,1/10/2006,romance,,,,77
+327,The Night of the Crown,7/13/2009,mystery,,,,82
+328,The Song of the Serpent’s Queen,4/24/1983,non-fiction,,,,95
+329,The Final Night of the King,2/29/1924,romance,,,,34
+330,The Queen of Shadows’ Curse,10/3/1951,non-fiction,,,,74
+331,The Flame of the Heart,5/7/1995,non-fiction,,,,56
+332,The Curse of the Queen’s Song,4/11/1902,romance,,,,32
+333,The Dragon’s Curse of the Heart,7/14/1943,fiction,,,,29
+334,The Final Curse of the Serpent,2/16/1911,sci-fi,,,,17
+335,The Sorcerer’s Secret Song,6/30/1935,romance,,,,96
+336,The Last Queen of the Serpent,11/3/1905,romance,,,,34
+337,The Heart of the Queen’s Flame,9/16/1935,fiction,,,,9
+338,The Last Dance of the Queen,12/30/1910,non-fiction,,,,21
+339,The Serpent’s Heart of Darkness,6/18/1966,romance,,,,68
+340,The Kingdom of the Fire’s Heart,8/2/2000,non-fiction,,,,96
+341,The Queen’s Curse of Darkness,11/7/1982,mystery,,,,96
+342,The Sorceress’s Curse of Fire,9/22/1957,romance,,,,59
+343,The Queen’s Embrace of Shadows,6/17/2015,sci-fi,,,,90
+344,The Heart of the Fire’s Curse,11/26/1920,non-fiction,,,,60
