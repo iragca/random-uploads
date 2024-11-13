@@ -3,7 +3,7 @@
 1. Obvious inconsistent propagated data
   - Columns like author.book_count have a default value of zero even though there are probably book instances that refer to their author.author_id
   - Other columns with the same problems: book.rating,	book.num_of_reviews
-  - Easily solve by making UPDATE statements, export to CSV and then reintegrate that data.
+  - Easily solved by making UPDATE statements, export to CSV and then reintegrate that data.
 
 2. Foreign key constraints are not enforced
   - I observed na dili siya enforced even though naa siya sa schema. 🤔
