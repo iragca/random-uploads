@@ -7,3 +7,4 @@
 
 2. Foreign key constraints are not enforced
   - I observed na dili siya enforced even though naa siya sa schema. 🤔
+  - Example: inserting a book with an author_id that doesn't exist in the author table 
